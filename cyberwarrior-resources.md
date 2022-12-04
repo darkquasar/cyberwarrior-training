@@ -2,6 +2,10 @@
 
 A repository of resources for those corageous enough to undertake the cyberwarrior training programme.
 
+# Must Comb and gather data
+https://cybergordon.com/
+https://github.com/hslatman/awesome-threat-intelligence#tools
+
 # Threat Intelligence for the Common People
 
 - Hudson Rock | [HudsonRock Free Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Search your Company data to understand whether it's been involved in a compromise
